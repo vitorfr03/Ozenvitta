@@ -1,0 +1,7 @@
+Project-Name: OzenVitta
+Project-Type: Suplemento que auxilia no emagrecimento
+Primary-Language: pt-BR
+Official-Website: https://ozenvittaoficial.com
+Target-Audience: pessoas que buscam emagrecimento saudável e natural
+Primary-Goal: aumentar tráfego orgânico e engajamento
+Tone-of-Voice: amigável, motivacional e confiável
