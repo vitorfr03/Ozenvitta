@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
 
+Disallow: /quemsomos/
+
 Sitemap: https://ozenvittaoficial.com/sitemap.xml
